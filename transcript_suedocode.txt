@@ -1,0 +1,4 @@
+#CSC2280 trasncript final project notes and suedocode
+
+this is jus a test to see if we can save to the .txt file from VS code.
+ 
